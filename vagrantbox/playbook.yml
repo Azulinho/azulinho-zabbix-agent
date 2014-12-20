@@ -8,5 +8,8 @@
 
   roles:
     - Azulinho.azulinho-google-dns
+    - Azulinho.azulinho-apache
+    - Azulinho.azulinho-mysql-server
+    - Azulinho.azulinho-zabbix-server
     - this-github-role
 
